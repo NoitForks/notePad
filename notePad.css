@@ -1,0 +1,30 @@
+html {
+    background-color: lemonchiffon;
+    
+     }
+
+h1 {
+    width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: Book Antiqua,Palatino,Palatino Linotype,Palatino LT STD,Georgia,serif;
+    font-variant: small-caps;
+    background-color:Ivory;
+    font-size:300%;
+    border-style: inset; 
+    border-left: 7px solid;
+    float: 25px;
+   }
+
+#text-input {
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAeCAYAAADtlXTHAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3gMKEDc1Fm+KLAAAAB1pVFh0Q29tbWVudAAAAAAAQ3JlYXRlZCB3aXRoIEdJTVBkLmUHAAAAFklEQVQI12OYt+z9f4ZL137+ZxhEAADblwbTE4dKKAAAAABJRU5ErkJggg==);
+    background-color:Ivory;
+    font-family:  Book Antiqua,Palatino,Palatino Linotype,Palatino LT STD,Georgia,serif;
+    font-size: 164%;
+    height: 400px;
+    width: 70%;
+    word-wrap: break-word;
+    resize: none;
+    overflow-y: hidden;
+
+}
