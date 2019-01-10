@@ -16,15 +16,26 @@ h1 {
     float: 25px;
    }
 
-#text-input {
+textarea {
     background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAeCAYAAADtlXTHAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3gMKEDc1Fm+KLAAAAB1pVFh0Q29tbWVudAAAAAAAQ3JlYXRlZCB3aXRoIEdJTVBkLmUHAAAAFklEQVQI12OYt+z9f4ZL137+ZxhEAADblwbTE4dKKAAAAABJRU5ErkJggg==);
     background-color:Ivory;
     font-family:  Book Antiqua,Palatino,Palatino Linotype,Palatino LT STD,Georgia,serif;
     font-size: 164%;
-    height: 400px;
-    width: 70%;
     word-wrap: break-word;
     resize: none;
     overflow-y: hidden;
+    width: 1350px;
+    height: 500px;
 
+
+}
+
+#remove-all {
+    font-family:  Book Antiqua,Palatino,Palatino Linotype,Palatino LT STD,Georgia,serif;
+    font-size: 15px;
+}
+
+#alignment-One {
+    flex-direction: column;
+    display: inline-block;
 }
